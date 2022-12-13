@@ -1,0 +1,1240 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+    <world name="vineyard">
+        <include>
+            <uri>model://map_10_10</uri>
+            <pose>10 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_40</uri>
+            <pose>40 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_0</uri>
+            <pose>0 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_60</uri>
+            <pose>60 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_30</uri>
+            <pose>30 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_80</uri>
+            <pose>80 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_80</uri>
+            <pose>80 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_10</uri>
+            <pose>10 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_30</uri>
+            <pose>30 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_90</uri>
+            <pose>90 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_0</uri>
+            <pose>0 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_70</uri>
+            <pose>70 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_10</uri>
+            <pose>10 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_20</uri>
+            <pose>20 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_60</uri>
+            <pose>60 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_90</uri>
+            <pose>90 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_100</uri>
+            <pose>100 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_10</uri>
+            <pose>10 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_30</uri>
+            <pose>30 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_30</uri>
+            <pose>30 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_20</uri>
+            <pose>20 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_20</uri>
+            <pose>20 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_90</uri>
+            <pose>90 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_30</uri>
+            <pose>30 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_50</uri>
+            <pose>50 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_70</uri>
+            <pose>70 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_90</uri>
+            <pose>90 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_20</uri>
+            <pose>20 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_20</uri>
+            <pose>20 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_90</uri>
+            <pose>90 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_100</uri>
+            <pose>100 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_30</uri>
+            <pose>30 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_40</uri>
+            <pose>40 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_60</uri>
+            <pose>60 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_40</uri>
+            <pose>40 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_30</uri>
+            <pose>30 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_30</uri>
+            <pose>30 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_40</uri>
+            <pose>40 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_50</uri>
+            <pose>50 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_90</uri>
+            <pose>90 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_90</uri>
+            <pose>90 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_70</uri>
+            <pose>70 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_80</uri>
+            <pose>80 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_60</uri>
+            <pose>60 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_10</uri>
+            <pose>10 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_10</uri>
+            <pose>10 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_0</uri>
+            <pose>0 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_100</uri>
+            <pose>100 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_0</uri>
+            <pose>0 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_50</uri>
+            <pose>50 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_0</uri>
+            <pose>0 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_70</uri>
+            <pose>70 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_40</uri>
+            <pose>40 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_20</uri>
+            <pose>20 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_50</uri>
+            <pose>50 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_50</uri>
+            <pose>50 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_10</uri>
+            <pose>10 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_60</uri>
+            <pose>60 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_0</uri>
+            <pose>0 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_90</uri>
+            <pose>90 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_100</uri>
+            <pose>100 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_20</uri>
+            <pose>20 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_80</uri>
+            <pose>80 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_0</uri>
+            <pose>0 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_30</uri>
+            <pose>30 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_100</uri>
+            <pose>100 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_60</uri>
+            <pose>60 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_20</uri>
+            <pose>20 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_50</uri>
+            <pose>50 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_60</uri>
+            <pose>60 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_90</uri>
+            <pose>90 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_50</uri>
+            <pose>50 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_100</uri>
+            <pose>100 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_50</uri>
+            <pose>50 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_100</uri>
+            <pose>100 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_30</uri>
+            <pose>30 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_20</uri>
+            <pose>20 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_100</uri>
+            <pose>100 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_80</uri>
+            <pose>80 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_70</uri>
+            <pose>70 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_100</uri>
+            <pose>100 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_50</uri>
+            <pose>50 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_0</uri>
+            <pose>0 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_70</uri>
+            <pose>70 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_100</uri>
+            <pose>100 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_100</uri>
+            <pose>100 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_20</uri>
+            <pose>20 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_70</uri>
+            <pose>70 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_10</uri>
+            <pose>10 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_40</uri>
+            <pose>40 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_80</uri>
+            <pose>80 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_10</uri>
+            <pose>10 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_60</uri>
+            <pose>60 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_30</uri>
+            <pose>30 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_20</uri>
+            <pose>20 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_0</uri>
+            <pose>0 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_50</uri>
+            <pose>50 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_40</uri>
+            <pose>40 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_30</uri>
+            <pose>30 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_20</uri>
+            <pose>20 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_10</uri>
+            <pose>10 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_70</uri>
+            <pose>70 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_10</uri>
+            <pose>10 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_80</uri>
+            <pose>80 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_100</uri>
+            <pose>100 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_40</uri>
+            <pose>40 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_90</uri>
+            <pose>90 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_70</uri>
+            <pose>70 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_30</uri>
+            <pose>30 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_60</uri>
+            <pose>60 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_0</uri>
+            <pose>0 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_70</uri>
+            <pose>70 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_40</uri>
+            <pose>40 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_10</uri>
+            <pose>10 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_20</uri>
+            <pose>20 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_50</uri>
+            <pose>50 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_30</uri>
+            <pose>30 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_70</uri>
+            <pose>70 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_50</uri>
+            <pose>50 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_0</uri>
+            <pose>0 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_0</uri>
+            <pose>0 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_0</uri>
+            <pose>0 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_60</uri>
+            <pose>60 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_70</uri>
+            <pose>70 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_80</uri>
+            <pose>80 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_40</uri>
+            <pose>40 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_20</uri>
+            <pose>20 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_10</uri>
+            <pose>10 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_100</uri>
+            <pose>100 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_0</uri>
+            <pose>0 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_10</uri>
+            <pose>10 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_80</uri>
+            <pose>80 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_60</uri>
+            <pose>60 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_90</uri>
+            <pose>90 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_50</uri>
+            <pose>50 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_40</uri>
+            <pose>40 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_50</uri>
+            <pose>50 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_80</uri>
+            <pose>80 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_40</uri>
+            <pose>40 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_90</uri>
+            <pose>90 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_40</uri>
+            <pose>40 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_40</uri>
+            <pose>40 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_40</uri>
+            <pose>40 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_80</uri>
+            <pose>80 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_90</uri>
+            <pose>90 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_100</uri>
+            <pose>100 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_80</uri>
+            <pose>80 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_80</uri>
+            <pose>80 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_30</uri>
+            <pose>30 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_70</uri>
+            <pose>70 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_80</uri>
+            <pose>80 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_80</uri>
+            <pose>80 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_20</uri>
+            <pose>20 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_60</uri>
+            <pose>60 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_60</uri>
+            <pose>60 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_30</uri>
+            <pose>30 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_10</uri>
+            <pose>10 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_0</uri>
+            <pose>0 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_70</uri>
+            <pose>70 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_40</uri>
+            <pose>40 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_0</uri>
+            <pose>0 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_90</uri>
+            <pose>90 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_70</uri>
+            <pose>70 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_10</uri>
+            <pose>10 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_100</uri>
+            <pose>100 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_40</uri>
+            <pose>40 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_90</uri>
+            <pose>90 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_70</uri>
+            <pose>70 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_100</uri>
+            <pose>100 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_20</uri>
+            <pose>20 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_50</uri>
+            <pose>50 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_50</uri>
+            <pose>50 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_50</uri>
+            <pose>50 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_20</uri>
+            <pose>20 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_60</uri>
+            <pose>60 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_50</uri>
+            <pose>50 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_40</uri>
+            <pose>40 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_80</uri>
+            <pose>80 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_80</uri>
+            <pose>80 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_10</uri>
+            <pose>10 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_10</uri>
+            <pose>10 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_0</uri>
+            <pose>0 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_30</uri>
+            <pose>30 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_40</uri>
+            <pose>40 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_70</uri>
+            <pose>70 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_20</uri>
+            <pose>20 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_80</uri>
+            <pose>80 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_30</uri>
+            <pose>30 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_0</uri>
+            <pose>0 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_50</uri>
+            <pose>50 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_60</uri>
+            <pose>60 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_60</uri>
+            <pose>60 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_90</uri>
+            <pose>90 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_80</uri>
+            <pose>80 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_90</uri>
+            <pose>90 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_80</uri>
+            <pose>80 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_60</uri>
+            <pose>60 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_0</uri>
+            <pose>0 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_0</uri>
+            <pose>0 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_40</uri>
+            <pose>40 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_20</uri>
+            <pose>20 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_30</uri>
+            <pose>30 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_90</uri>
+            <pose>90 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_70</uri>
+            <pose>70 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_40</uri>
+            <pose>40 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_100</uri>
+            <pose>100 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_30</uri>
+            <pose>30 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_20</uri>
+            <pose>20 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_90</uri>
+            <pose>90 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_30</uri>
+            <pose>30 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_90</uri>
+            <pose>90 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_50</uri>
+            <pose>50 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_40</uri>
+            <pose>40 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_50</uri>
+            <pose>50 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_80</uri>
+            <pose>80 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_10</uri>
+            <pose>10 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_100</uri>
+            <pose>100 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_80</uri>
+            <pose>80 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_30</uri>
+            <pose>30 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_90</uri>
+            <pose>90 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_100</uri>
+            <pose>100 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_80</uri>
+            <pose>80 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_60</uri>
+            <pose>60 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_90</uri>
+            <pose>90 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_0</uri>
+            <pose>0 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_50</uri>
+            <pose>50 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_20</uri>
+            <pose>20 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_100</uri>
+            <pose>100 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_20</uri>
+            <pose>20 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_90</uri>
+            <pose>90 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_10_70</uri>
+            <pose>70 10 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_70</uri>
+            <pose>70 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_210_10</uri>
+            <pose>10 210 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_60</uri>
+            <pose>60 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_30</uri>
+            <pose>30 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_30</uri>
+            <pose>30 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_20</uri>
+            <pose>20 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_30</uri>
+            <pose>30 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_100</uri>
+            <pose>100 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_40</uri>
+            <pose>40 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_100</uri>
+            <pose>100 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_50</uri>
+            <pose>50 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_80</uri>
+            <pose>80 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_150_70</uri>
+            <pose>70 150 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_0</uri>
+            <pose>0 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_90</uri>
+            <pose>90 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_0</uri>
+            <pose>0 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_20</uri>
+            <pose>20 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_60</uri>
+            <pose>60 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_10</uri>
+            <pose>10 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_10</uri>
+            <pose>10 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_20</uri>
+            <pose>20 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_70</uri>
+            <pose>70 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_0</uri>
+            <pose>0 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_50</uri>
+            <pose>50 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_30</uri>
+            <pose>30 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_0</uri>
+            <pose>0 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_100</uri>
+            <pose>100 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_100</uri>
+            <pose>100 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_10</uri>
+            <pose>10 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_0</uri>
+            <pose>0 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_60</uri>
+            <pose>60 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_10</uri>
+            <pose>10 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_250_0</uri>
+            <pose>0 250 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_230_70</uri>
+            <pose>70 230 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_60</uri>
+            <pose>60 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_240_30</uri>
+            <pose>30 240 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_100</uri>
+            <pose>100 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_50</uri>
+            <pose>50 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_140_90</uri>
+            <pose>90 140 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_50</uri>
+            <pose>50 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_70</uri>
+            <pose>70 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_130_60</uri>
+            <pose>60 130 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_40</uri>
+            <pose>40 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_110_50</uri>
+            <pose>50 110 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_30_90</uri>
+            <pose>90 30 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_10</uri>
+            <pose>10 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_80</uri>
+            <pose>80 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_20</uri>
+            <pose>20 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_100</uri>
+            <pose>100 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_50_40</uri>
+            <pose>40 50 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_180_100</uri>
+            <pose>100 180 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_0_60</uri>
+            <pose>60 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_60_10</uri>
+            <pose>10 60 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_170_70</uri>
+            <pose>70 170 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_160_50</uri>
+            <pose>50 160 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_40_70</uri>
+            <pose>70 40 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_100</uri>
+            <pose>100 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_80_60</uri>
+            <pose>60 80 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_190_20</uri>
+            <pose>20 190 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_40</uri>
+            <pose>40 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_80</uri>
+            <pose>80 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_70</uri>
+            <pose>70 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_80</uri>
+            <pose>80 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_60</uri>
+            <pose>60 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_30</uri>
+            <pose>30 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_80</uri>
+            <pose>80 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_270_20</uri>
+            <pose>20 270 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_90</uri>
+            <pose>90 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_60</uri>
+            <pose>60 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_20_10</uri>
+            <pose>10 20 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_70_0</uri>
+            <pose>0 70 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_90_40</uri>
+            <pose>40 90 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_220_90</uri>
+            <pose>90 220 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_260_70</uri>
+            <pose>70 260 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_200_60</uri>
+            <pose>60 200 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_100_40</uri>
+            <pose>40 100 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map_120_10</uri>
+            <pose>10 120 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://sun</uri>
+        </include>
+    </world>
+</sdf>

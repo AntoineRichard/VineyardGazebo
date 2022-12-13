@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+    <model name="map_120_0">
+        <link name="map_120_0_link">
+            <visual name="map_120_0_visual">
+                <geometry>
+                    <mesh>
+                        <uri>meshes/visual/map_120_0.obj</uri>
+                    </mesh>
+                </geometry>
+            </visual>
+            <collision name="map_120_0_collision">
+                <surface>
+                    <friction>
+                        <ode>
+                            <mu>2.316343837943928</mu>
+                            <mu2>2.316343837943928</mu2>
+                        </ode>
+                        <bullet>
+                            <friction>2.316343837943928</friction>
+                            <friction2>2.316343837943928</friction2>
+                        </bullet>
+                    </friction>
+                </surface>
+                <geometry>
+                    <mesh>
+                        <uri>meshes/visual/map_120_0.obj</uri>
+                    </mesh>
+                </geometry>
+            </collision>
+        </link>
+        <static>True</static>
+    </model>
+</sdf>
