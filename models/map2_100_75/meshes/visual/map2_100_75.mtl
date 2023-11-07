@@ -1,0 +1,12 @@
+# wavefront mtl file written by the visualization toolkit
+
+newmtl mtl1
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd map2_100_75texture1.png
+

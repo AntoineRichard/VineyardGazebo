@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+    <world name="vineyard2">
+        <include>
+            <uri>model://map2_150_175</uri>
+            <pose>175 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_0</uri>
+            <pose>0 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_150_50</uri>
+            <pose>50 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_0</uri>
+            <pose>0 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_25</uri>
+            <pose>25 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_25</uri>
+            <pose>25 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_150</uri>
+            <pose>150 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_150_25</uri>
+            <pose>25 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_100</uri>
+            <pose>100 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_50</uri>
+            <pose>50 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_75</uri>
+            <pose>75 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_175</uri>
+            <pose>175 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_150</uri>
+            <pose>150 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_50</uri>
+            <pose>50 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_125</uri>
+            <pose>125 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_125</uri>
+            <pose>125 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_150</uri>
+            <pose>150 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_150_125</uri>
+            <pose>125 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_25</uri>
+            <pose>25 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_25</uri>
+            <pose>25 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_150_100</uri>
+            <pose>100 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_125</uri>
+            <pose>125 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_0</uri>
+            <pose>0 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_0</uri>
+            <pose>0 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_125</uri>
+            <pose>125 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_0</uri>
+            <pose>0 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_75</uri>
+            <pose>75 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_50</uri>
+            <pose>50 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_50</uri>
+            <pose>50 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_175</uri>
+            <pose>175 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_75</uri>
+            <pose>75 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_100</uri>
+            <pose>100 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_150_75</uri>
+            <pose>75 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_75</uri>
+            <pose>75 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_150</uri>
+            <pose>150 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_0</uri>
+            <pose>0 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_75</uri>
+            <pose>75 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_50</uri>
+            <pose>50 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_100</uri>
+            <pose>100 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_125</uri>
+            <pose>125 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_150</uri>
+            <pose>150 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_175</uri>
+            <pose>175 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_150_0</uri>
+            <pose>0 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_100</uri>
+            <pose>100 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_75</uri>
+            <pose>75 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_25_100</uri>
+            <pose>100 25 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_0_25</uri>
+            <pose>25 0 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_25</uri>
+            <pose>25 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_100_125</uri>
+            <pose>125 100 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_50</uri>
+            <pose>50 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_150</uri>
+            <pose>150 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_75_175</uri>
+            <pose>175 75 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_100</uri>
+            <pose>100 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_150_150</uri>
+            <pose>150 150 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_125_175</uri>
+            <pose>175 125 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://map2_50_175</uri>
+            <pose>175 50 -150 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://sun</uri>
+        </include>
+    </world>
+</sdf>
