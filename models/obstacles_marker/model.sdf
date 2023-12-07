@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+    <model name="obstacles_marker">
+        <link name="obstacles_marker_link">
+            <visual name="obstacles_marker_visual">
+                <geometry>
+                    <mesh>
+                        <uri>meshes/visual/obstacles_marker.obj</uri>
+                    </mesh>
+                </geometry>
+            </visual>
+        </link>
+        <static>True</static>
+    </model>
+</sdf>
